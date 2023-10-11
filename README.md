@@ -12,4 +12,4 @@ error: key does not contain a section: –global
 
 사실 위 에러 메세지가 왜 뜨는지는 안알아봤고 팀원의 도움을 받았는데,
 깃허브 repository 세팅에서 branch의 default값을 main으로 바꾼 후 Update 하였고, 
-VSCodefd
+깃허브에서 만들어놓은 repository : TIL-test2-(연습용) 를 VSCode로 clone 하니 branch값이 'master'에서 깃허브에서 설정해 놓은 ''
